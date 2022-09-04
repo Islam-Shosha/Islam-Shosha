@@ -61,7 +61,7 @@
   <td>
 
 
-Here are some ideas to get you started:
+Here are some ideas to know what i'm doing now:
 - 🔭 I’m currently working on android studio project
 - 🌱 I’m currently learning deep flutter
 - 👯 I’m looking to collaborate on ECPC
