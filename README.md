@@ -8,14 +8,22 @@
 <hr>
 
 
-👋💙 🤝 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Islam-Shosha&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
-
+<!-- 👋💙 🤝 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Islam-Shosha&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
+Here are some ideas to know what i'm doing now:
+- 🔭 I’m currently working on android studio project
+- 🌱 I’m currently learning deep flutter
+- 👯 I’m looking to collaborate on ECPC
+- 🤔 I’m looking for help with 
+- 💬 Ask me about any thing
+- 📫 How to reach me: What's app && facebook
+- 😄 Pronouns: play in gym
+- ⚡ Fun fact: I'm in love
 
 
 
 <h2> Contact with me on </h2>
 
-<h3>Where to find me</h3>
+<h4>Where to find me</h4>
 - personal email : islamshosha390@gmail.com
 <p><a href="https://github.com/Islam-Shosha" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="http://Wa.me/201032527757" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/islam.shosha.52" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/islam-shosha-b04a751a8/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
 
@@ -56,15 +64,7 @@
   <td>
 
 
-Here are some ideas to know what i'm doing now:
-- 🔭 I’m currently working on android studio project
-- 🌱 I’m currently learning deep flutter
-- 👯 I’m looking to collaborate on ECPC
-- 🤔 I’m looking for help with 
-- 💬 Ask me about any thing
-- 📫 How to reach me: What's app && facebook
-- 😄 Pronouns: play in gym
-- ⚡ Fun fact: I'm in love
+
 
 
 
