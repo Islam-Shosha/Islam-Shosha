@@ -8,8 +8,7 @@
 <hr>
 
 
-👋💙 🤝 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Islam-Shosha&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
+👋💙 🤝 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Islam-Shosha&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
 
 
 
@@ -71,8 +70,6 @@ Here are some ideas to know what i'm doing now:
 - 😄 Pronouns: play in gym
 - ⚡ Fun fact: I'm in love
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
